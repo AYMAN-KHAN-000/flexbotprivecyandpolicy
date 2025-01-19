@@ -1,7 +1,7 @@
 **Privacy Policy**
 
 **Introduction**
-[Your Bot's Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our bot.
+[FLEX] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our bot.
 
 **Information Collection**
 We collect the following types of information:
